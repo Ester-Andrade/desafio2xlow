@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
   position: relative;
-  width: 90vw;
-  height: 50vw;
+  width: 70vw;
+  height: 40vw;
   overflow: hidden;
   background-color: black;
 }
